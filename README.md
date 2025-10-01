@@ -6,23 +6,23 @@ Winter Semester 2025/26 [@kozaka93](https://github.com/kozaka93) [@woznicak](htt
 
 ## Schedule
 
-| Week | Date       | Lecture                           | Labs                        | Project                         |
-|------|------------|-----------------------------------|-----------------------------|---------------------------------|
-|    1 | 2025-10-02 | Intro                             | Recap: sklearn pipeline     | Project 1: Intro                |
-|    2 | 2025-10-09 | Model selection & benchmarks      | MLFlow                      | Data consultations              |
-|    3 | 2025-10-16 | Hyperparameter Optimization (HPO) | Model selection             | Consultations: optimization     |
-|    4 | 2025-10-23 | Tunability                        | HPO 1                       | Consultations: optimization     |
-|    5 | 2025-10-30 | Multi-fidelity optimization       | HPO 2                       | Consultations: results analysis |
-|    6 | 2025-11-06 | Ensembles                         | Multi-fidelity optimization | Consultations: results analysis |
-|    7 | 2025-11-20 | XAI                               | Autogluon 1                 | Submission of Project 1         |
-|    8 | 2025-11-27 | XAI for HPO                       | TBA                         | Project 2: Intro                |
-|    9 | 2025-12-04 | Model multiplicity                | TBA                         |                                 |
-|   10 | 2025-12-11 | TBA                               | TBA                         |                                 |
-|   11 | 2025-12-18 | Meta-learning                     | TBA                         |                                 |
-|   12 | 2026-01-08 | Dataset representations           | TBA                         |                                 |
-|   13 | 2026-01-15 | TBA                               | TBA                         |                                 |
-|   14 | 2026-01-22 | TabPFN                            | TBA                         |                                 |
-|   15 | 2026-01-29 | Neural Architecture               | TBA                         |                                 |
+| Week | Date     | Lecture                           | Labs                        | Project                         |
+|------|----------|-----------------------------------|-----------------------------|---------------------------------|
+|    1 | 02.10.25 | Intro                             | Recap: sklearn pipeline     | Project 1: Intro                |
+|    2 | 09.10.25 | Model selection & benchmarks      | MLFlow                      | Data consultations              |
+|    3 | 16.10.25 | Hyperparameter Optimization (HPO) | Model selection             | Consultations: optimization     |
+|    4 | 23.10.25 | Tunability                        | HPO 1                       | Consultations: optimization     |
+|    5 | 30.10.25 | Multi-fidelity optimization       | HPO 2                       | Consultations: results analysis |
+|    6 | 06.11.25 | Ensembles                         | Multi-fidelity optimization | Consultations: results analysis |
+|    7 | 20.11.25 | XAI                               | Autogluon 1                 | Submission of Project 1         |
+|    8 | 27.11.25 | XAI for HPO                       | TBA                         | Project 2: Intro                |
+|    9 | 04.12.25 | Model multiplicity                | TBA                         |                                 |
+|   10 | 11.12.25 | TBA                               | TBA                         |                                 |
+|   11 | 18.12.25 | Meta-learning                     | TBA                         |                                 |
+|   12 | 08.01.26 | Dataset representations           | TBA                         |                                 |
+|   13 | 15.01.26 | TBA                               | TBA                         |                                 |
+|   14 | 22.01.26 | TabPFN                            | TBA                         |                                 |
+|   15 | 29.01.26 | Neural Architecture               | TBA                         |                                 |
 
 ## General rules and course assessment
 
