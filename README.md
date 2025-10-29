@@ -9,10 +9,10 @@ Winter Semester 2025/26 [@kozaka93](https://github.com/kozaka93) [@woznicak](htt
 | Week | Date     | Lecture                           | Labs                        | Project                         |
 |------|----------|-----------------------------------|-----------------------------|---------------------------------|
 |    1 | 02.10.25 | Intro                             | Recap: sklearn pipeline     | Project 1: Intro                |
-|    2 | 09.10.25 | Model selection & benchmarks      | MLFlow                      | Data consultations              |
-|    3 | 16.10.25 | Hyperparameter Optimization (HPO) | Model selection             | Consultations: optimization     |
-|    4 | 23.10.25 | Tunability                        | HPO 1                       | Consultations: optimization     |
-|    5 | 30.10.25 | Multi-fidelity optimization       | HPO 2                       | Consultations: results analysis |
+|    2 | 09.10.25 | Model selection & Tunability     | Model selection             | Data consultations              |
+|    3 | 16.10.25 | Hyperparameter Optimization (HPO) | HPO - GR & RS & Bayes       | Consultations: data, optimization |
+|    4 | 23.10.25 | Multi-fidelity optimization                       | HPO Bayes                   | Consultations: optimization     |
+|    5 | 30.10.25 | Benchmarks      | HPO - Optuna                | Consultations: optimization, results analysis |
 |    6 | 06.11.25 | Ensembles                         | Multi-fidelity optimization | Consultations: results analysis |
 |    7 | 20.11.25 | XAI                               | Autogluon 1                 | Submission of Project 1         |
 |    8 | 27.11.25 | XAI for HPO                       | TBA                         | Project 2: Intro                |
