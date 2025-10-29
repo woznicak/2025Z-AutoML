@@ -13,7 +13,7 @@ Winter Semester 2025/26 [@kozaka93](https://github.com/kozaka93) [@woznicak](htt
 |    3 | 16.10.25 | Hyperparameter Optimization (HPO) | HPO - GR & RS & Bayes       | Consultations: data, optimization |
 |    4 | 23.10.25 | Multi-fidelity optimization                       | HPO Bayes                   | Consultations: optimization     |
 |    5 | 30.10.25 | Benchmarks      | HPO - Optuna                | Consultations: optimization, results analysis |
-|    6 | 06.11.25 | Ensembles                         | Multi-fidelity optimization | Consultations: results analysis |
+|    6 | 06.11.25 | Ensembles                         | Model selection | Consultations: results analysis |
 |    7 | 20.11.25 | XAI                               | Autogluon 1                 | Submission of Project 1         |
 |    8 | 27.11.25 | XAI for HPO                       | TBA                         | Project 2: Intro                |
 |    9 | 04.12.25 | Model multiplicity                | TBA                         |                                 |
