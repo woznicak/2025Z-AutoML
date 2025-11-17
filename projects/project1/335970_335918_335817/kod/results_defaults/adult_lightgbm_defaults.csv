@@ -1,0 +1,2 @@
+dataset,algorithm,mean_test_roc_auc,std_test_roc_auc,mean_test_accuracy,std_test_accuracy,mean_test_f1,std_test_f1
+adult,lightgbm,0.9278772645514016,0.0013316638531210105,0.8732238960403693,0.0017530185888416931,0.7115770018805198,0.0034372178941194115

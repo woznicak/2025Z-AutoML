@@ -1,0 +1,2 @@
+dataset,algorithm,mean_test_roc_auc,std_test_roc_auc,mean_test_accuracy,std_test_accuracy,mean_test_f1,std_test_f1
+mushroom,lightgbm,1.0,9.064933036736789e-17,1.0,0.0,1.0,0.0

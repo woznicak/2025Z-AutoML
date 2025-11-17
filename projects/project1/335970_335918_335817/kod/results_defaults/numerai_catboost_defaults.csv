@@ -1,0 +1,2 @@
+dataset,algorithm,mean_test_roc_auc,std_test_roc_auc,mean_test_accuracy,std_test_accuracy,mean_test_f1,std_test_f1
+numerai,catboost,0.5205877349219001,0.0036334811716695666,0.5149709672071672,0.002905671044745366,0.5439324312343717,0.003545918041153439

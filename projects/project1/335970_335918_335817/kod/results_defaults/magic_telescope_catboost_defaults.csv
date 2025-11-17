@@ -1,0 +1,2 @@
+dataset,algorithm,mean_test_roc_auc,std_test_roc_auc,mean_test_accuracy,std_test_accuracy,mean_test_f1,std_test_f1
+magic_telescope,catboost,0.9396685420216576,0.0005245631703605042,0.8874342797055731,0.0019798286418257157,0.8278737423889814,0.0033045709415848177

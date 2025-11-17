@@ -1,0 +1,2 @@
+dataset,algorithm,mean_test_roc_auc,std_test_roc_auc,mean_test_accuracy,std_test_accuracy,mean_test_f1,std_test_f1
+adult,catboost,0.9284406042496663,0.000771961677780342,0.8732238545394986,0.0004965220923304058,0.7100215839514474,0.0020260439626373105

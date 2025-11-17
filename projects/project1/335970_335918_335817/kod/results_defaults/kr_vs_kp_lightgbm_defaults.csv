@@ -1,0 +1,2 @@
+dataset,algorithm,mean_test_roc_auc,std_test_roc_auc,mean_test_accuracy,std_test_accuracy,mean_test_f1,std_test_f1
+kr_vs_kp,lightgbm,0.999677350175603,0.00014705394878385166,0.9915510574390685,0.002302148295292656,0.9919264995997669,0.002167427337882763
