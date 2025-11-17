@@ -1,0 +1,5 @@
+frac,method,best_params,brier_cv,brier_test,n_samples_train
+0.25,Bayesian Opt,"{'n_estimators': 667, 'criterion': 'entropy', 'max_depth': 20, 'min_samples_split': 17, 'min_samples_leaf': 1, 'max_features': 'sqrt', 'max_samples': None}",0.19371959686594886,0.1949103636316343,2232
+0.5,Bayesian Opt,"{'n_estimators': 1174, 'criterion': 'log_loss', 'max_depth': None, 'min_samples_split': 3, 'min_samples_leaf': 2, 'max_features': 0.25, 'max_samples': 0.9}",0.18654093245119413,0.19490551154889457,4464
+0.75,Bayesian Opt,"{'n_estimators': 683, 'criterion': 'log_loss', 'max_depth': 20, 'min_samples_split': 17, 'min_samples_leaf': 1, 'max_features': 0.25, 'max_samples': 0.9}",0.1854565914649629,0.1921336346305359,6696
+1.0,Bayesian Opt,"{'n_estimators': 1375, 'criterion': 'entropy', 'max_depth': None, 'min_samples_split': 19, 'min_samples_leaf': 2, 'max_features': 0.25, 'max_samples': 0.9}",0.185050832519622,0.1843225378562384,8929

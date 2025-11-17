@@ -1,0 +1,5 @@
+frac,method,best_params,brier_cv,brier_test,n_samples_train
+0.25,Random Search,"{'criterion': 'log_loss', 'max_depth': 20, 'max_features': 'sqrt', 'max_samples': None, 'min_samples_leaf': 1, 'min_samples_split': 13, 'n_estimators': 747}",0.19172691679627077,0.1943605030715737,2232
+0.5,Random Search,"{'criterion': 'entropy', 'max_depth': None, 'max_features': 'sqrt', 'max_samples': None, 'min_samples_leaf': 2, 'min_samples_split': 10, 'n_estimators': 1469}",0.18701822325721879,0.1927654512941477,4464
+0.75,Random Search,"{'criterion': 'entropy', 'max_depth': None, 'max_features': 'sqrt', 'max_samples': None, 'min_samples_leaf': 2, 'min_samples_split': 10, 'n_estimators': 1469}",0.18516088299733352,0.19231182570538127,6696
+1.0,Random Search,"{'criterion': 'entropy', 'max_depth': None, 'max_features': 'sqrt', 'max_samples': None, 'min_samples_leaf': 2, 'min_samples_split': 10, 'n_estimators': 1469}",0.1858421833675464,0.1858421833675464,8929
