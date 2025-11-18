@@ -1,0 +1,5 @@
+Dataset,Best_F1,Best_params
+personality,0.9187935034802784,"OrderedDict([('colsample_bytree', 0.8311563895216271), ('learning_rate', 0.002665303673177163), ('max_depth', 9), ('min_child_samples', 80), ('n_estimators', 2639), ('num_leaves', 32), ('subsample', 0.7802204795522933)])"
+Heart,0.9155844155844156,"OrderedDict([('colsample_bytree', 0.13280577414415357), ('learning_rate', 0.002395322812023145), ('max_depth', 3), ('min_child_samples', 1), ('n_estimators', 5000), ('num_leaves', 20), ('subsample', 1.0)])"
+Loan,0.9730769230769231,"OrderedDict([('colsample_bytree', 1.0), ('learning_rate', 0.019838596929422636), ('max_depth', 1), ('min_child_samples', 1), ('n_estimators', 5000), ('num_leaves', 150), ('subsample', 0.1)])"
+Machine,0.912,"OrderedDict([('colsample_bytree', 1.0), ('learning_rate', 0.001), ('max_depth', 1), ('min_child_samples', 100), ('n_estimators', 3274), ('num_leaves', 74), ('subsample', 0.815626332821678)])"
