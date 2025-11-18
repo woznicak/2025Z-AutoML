@@ -1,0 +1,2 @@
+dataset,algorithm,mean_test_roc_auc,std_test_roc_auc,mean_test_accuracy,std_test_accuracy,mean_test_f1,std_test_f1
+kr_vs_kp,catboost,0.9994454743598432,0.00022006499547902063,0.9943679588475192,0.0015333289365440882,0.9946086218996077,0.001463249238567704

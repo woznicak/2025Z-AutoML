@@ -1,0 +1,2 @@
+dataset,algorithm,mean_test_roc_auc,std_test_roc_auc,mean_test_accuracy,std_test_accuracy,mean_test_f1,std_test_f1
+numerai,lightgbm,0.521582121632881,0.0012351533922655526,0.5178363756155263,0.0007919928111604718,0.5564049967090409,0.002507108163755213

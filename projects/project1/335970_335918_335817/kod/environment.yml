@@ -1,0 +1,23 @@
+name: automl-tunability
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - numpy
+  - pandas
+  - scikit-learn
+  - xgboost
+  - lightgbm
+  - catboost
+  - scipy
+  - matplotlib
+  - seaborn
+  - openml
+  - jupyter
+  - notebook
+  - ipykernel
+  - pip
+  - pip:
+      - scikit-optimize
+      - optuna
