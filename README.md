@@ -19,7 +19,7 @@ Winter Semester 2025/26 [@kozaka93](https://github.com/kozaka93) [@woznicak](htt
 |    9 | 04.12.25 | Guests: MLJAR                     | MLJAR                         |                                 |
 |   10 | 11.12.25 | Cancelled                               | Cancelled                         |   Cancelled                              |
 |   11 | 18.12.25 | XAI                    | Package Presentations 1                         |                                 |
-|   12 | 08.01.26 | XAI for HPO           | Package Presentations 2                         |                                 |
+|   12 | 08.01.26 | Meta-learning 3           | Package Presentations 2                         |                                 |
 |   13 | 15.01.26 | Neural Architecture Search (NAS)                               | NAS                         |                                 |
 |   14 | 22.01.26 | TabPFN                            | TabPFN                         |                                 |
 |   15 | 29.01.26 |  TBA            | TBA                         |                                 |
