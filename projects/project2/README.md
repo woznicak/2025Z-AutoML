@@ -40,6 +40,7 @@ Wykorzystanie wyników z ogólnodostępnych źródeł zamiast kosztownych eksper
 
 - Benchmarki OpenML (np. OpenML-CC18).
 - TabArena.
+- MementoML https://www.kaggle.com/mi2datalab/mementoml
 - Ogólnodostępne leaderboardy modeli.
 
 ### Etap 2: Plik JSON z Konfiguracją Modeli
@@ -119,7 +120,7 @@ Ponadto w fazie postprocessingu  można zaproponować ensemble składający się
 
 ### Przygotowanie do Ewaluacji
 
-Dwa tygodnie przed terminem oddania projektu zostanie dostarczony **przykładowy zbiór danych** w celu sprawdzenia struktury i formatu danych, na których ma działać rozwiązanie.
+Dwa tygodnie przed terminem oddania projektu zostanie dostarczony **przykładowy zbiór danych** w celu sprawdzenia struktury i formatu danych, na których ma działać rozwiązanie. Zbiór danych jest umieszczony w [folderze](projects\project2\example_data) 
 
 ### Ostateczna Ewaluacja
 
