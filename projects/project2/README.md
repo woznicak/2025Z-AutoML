@@ -120,7 +120,7 @@ Ponadto w fazie postprocessingu  można zaproponować ensemble składający się
 
 ### Przygotowanie do Ewaluacji
 
-Dwa tygodnie przed terminem oddania projektu zostanie dostarczony **przykładowy zbiór danych** w celu sprawdzenia struktury i formatu danych, na których ma działać rozwiązanie. Zbiór danych jest umieszczony w [folderze](projects\project2\example_data) 
+Dwa tygodnie przed terminem oddania projektu zostanie dostarczony **przykładowy zbiór danych** w celu sprawdzenia struktury i formatu danych, na których ma działać rozwiązanie. Zbiór danych jest umieszczony w [folderze](https://github.com/woznicak/2025Z-AutoML/tree/main/projects/project2/example_data).
 
 ### Ostateczna Ewaluacja
 
